@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class MapAddAll {
+class TestMapAddAll {
     public static void main(String[] args) {
         String s1 = "1";
         String s2 = "2";

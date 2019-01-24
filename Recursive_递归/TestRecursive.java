@@ -1,4 +1,4 @@
-public class Temp {
+public class TestRecursive {
     public static void main(String[] args) {
 
         int n = 3;

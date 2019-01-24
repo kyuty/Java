@@ -2,7 +2,7 @@
  * Created by wangdong on 3/30/17.
  */
 
-public class Temp {
+public class TestBitOperation {
     public static void main(String[] args) {
         goIn();
     }

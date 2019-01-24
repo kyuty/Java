@@ -1,4 +1,4 @@
-public class temp {
+public class TestStringAddChar {
     public static void main(String[] args) {
         char startc = 2;
         String b = "" + startc + "#*";

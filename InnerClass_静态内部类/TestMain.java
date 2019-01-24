@@ -34,7 +34,7 @@ class OuterClass{
     }
 }
 
-class Main
+class TestMain
 {
     // 怎么创建静态内部类和非静态内部类的实例
     public static void main(String args[]){
