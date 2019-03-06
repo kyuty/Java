@@ -18,6 +18,7 @@ public class TestStringAddChar {
         String b222 = "111";
         System.out.println("" + a111 == b222);
     }
+
     static void temp1() {
         String b = "" + "#*";
         System.out.println("b = " + b);

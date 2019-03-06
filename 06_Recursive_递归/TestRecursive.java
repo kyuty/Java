@@ -2,7 +2,7 @@ public class TestRecursive {
     public static void main(String[] args) {
 
         int n = 3;
-        int[] a = new int[n*n];
+        int[] a = new int[n * n];
         set(n, a, 0, 0, 0);
 
         for (int i = 0; i < n; i++) {
